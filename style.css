@@ -1,0 +1,204 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+}
+.container{
+    background-color: #000;
+}
+.navbar{
+    background-color: #000;
+    margin-top: 40px;
+    padding-top: 25px;
+
+}
+.btn{
+    outline: 1px solid #04a2a3;
+    margin-left: 150px;
+    color: #04a2a3;
+    padding-top: 25px;
+}
+.jumbotron{
+    background-image: url('image/code1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    margin-top: 10px;
+    height: 750px;
+    width: 100%;
+   
+}
+.jumbotron h1{
+    
+    font-size: 80px;
+    color: #fff;
+}
+.jumbotron div{
+    background-color: #0c1210;
+    padding: 10px;
+    margin: 5%;
+
+}
+.jumbotron b{
+    color: #04a2a3;
+
+}
+.jumbotron p{
+    padding-top: 50px;
+    color: #fff;
+  
+} 
+.jumbotron .btn{
+   margin-left: 250px;
+}
+.welcome{
+    width: 100%;
+    display: flex;
+}
+.partner{
+    width: 50%;
+    padding-top: 150px;
+    padding-left: 250px;
+}
+.partner h1{
+    color: #fff;
+}
+.partner h5{
+    color: #04a2a3;
+    font-size: 10px;
+}
+.partner b{
+    color: #04a2a3;
+
+}
+.partner p{
+    font-size: 10px;
+    color: #fff;
+}
+.experience{
+    width: 50%;
+    padding-top: 150px;
+    padding-left: 250px;
+
+}
+.flex{
+    display: flex;
+    
+}
+.years h1{
+    font-size: 60px;
+    color: #04a2a3;
+}
+.years p{
+    color: #fff;
+}
+.project{
+    padding-left: 50px;
+}
+.project h1{
+    font-size: 60px;
+    color: #04a2a3;
+}
+.project p{
+    color: #fff;
+
+}
+
+.card{
+    padding: 15px;
+    margin-left: 10px;
+    margin-top: 100px;
+    padding-top: 40px;
+    
+}
+.card h1{
+    font-size: 25px;
+    color: #04a2a3;
+
+}
+.card-content{
+    font-size: 15px;
+    color: #fff;
+}
+
+.acenter b{
+    color: #04a2a3;
+
+}
+.acenter h6{
+    color: #04a2a3;
+    margin-top: 50px;
+
+}
+.acenter h1{
+    color: #fff;
+    margin-bottom: 60px;
+}
+.carousel-inner{
+    margin-left: 300px;
+}
+.carousel-caption{
+    margin-right: 600px;
+}
+.mission{
+    width: 100%;
+    color: #fff;
+    display: flex;
+}
+.mission h1{
+    color: #fff;
+    margin-top: 50px;
+}
+.mission b{
+    color: #04a2a3;
+}
+.perfect{
+    width: 50%;
+    margin-left: 100px;
+}
+.perfect p{
+    font-size: 12px;
+}
+.perfect ul{
+    font-size: 12px;
+}
+.frm{
+    width: 50%;
+    margin-top: 50px;
+}
+.grid{
+    color: #fff;
+    padding: 40px;
+}
+.grid h5{
+    color: #04a2a3;
+}
+.grid h1{
+    font-size: 20px;
+    margin-top: 25px;
+    
+}
+.grid h4{
+    color: #04a2a3;
+    font-size: 40px;
+}
+.row{
+    column-gap: 50px;  
+}
+
+.grid .contain{
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.grid h6{
+    font-size: 10px;
+}
+.grid p{
+    font-size: 12px;
+}
+.shad{
+    box-shadow: ;
+}
